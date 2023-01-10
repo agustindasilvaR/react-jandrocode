@@ -1,0 +1,14 @@
+.row1 {
+  display: flex;
+  margin: 50px;
+  column-gap: 25px;
+  align-items: center;
+  justify-content: center;
+}
+.row2 {
+  display: flex;
+  margin: 100px;
+  column-gap: 25px;
+  align-items: center;
+  justify-content: center;
+}
